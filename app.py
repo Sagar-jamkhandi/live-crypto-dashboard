@@ -4,7 +4,7 @@ Live Crypto Market Dashboard
 Pulls real-time cryptocurrency price data from the free CoinGecko public API
 (no API key required) and displays it in an auto-refreshing Streamlit dashboard.
 
-Author: <YOUR NAME>
+Author: Sagar Jamkhandi
 """
 
 import time
