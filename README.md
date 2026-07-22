@@ -1,3 +1,5 @@
+https://live-crypto-dashboard-sagar-jkd.streamlit.app/
+
 # 📈 Live Cryptocurrency Market Dashboard
 
 A real-time, auto-refreshing dashboard that pulls live market data (price, market cap,
